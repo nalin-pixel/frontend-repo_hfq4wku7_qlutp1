@@ -1,0 +1,13 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 200 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.38.159:3000/
+(!) %VITE_GA_ID% is not defined in env variables found in /index.html. Is the variable mistyped?
+(!) %VITE_GA_ID% is not defined in env variables found in /index.html. Is the variable mistyped?
+(!) %VITE_GA_ID% is not defined in env variables found in /index.html. Is the variable mistyped?
+(!) %VITE_GA_ID% is not defined in env variables found in /index.html. Is the variable mistyped?
